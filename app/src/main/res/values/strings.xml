@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="base_server">http://192.168.0.210</string>
+</resources>

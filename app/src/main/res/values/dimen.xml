@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_width">320dp</dimen>
+    <dimen name="card_height">180dp</dimen>
+    <dimen name="grid_item_width">100dp</dimen>
+    <dimen name="grid_item_height">100dp</dimen>
+    <dimen name="spinner_width">75dp</dimen>
+    <dimen name="spinner_height">75dp</dimen>
+    <dimen name="detail_thumb_width">274dp</dimen>
+    <dimen name="detail_thumb_height">274dp</dimen>
+    <dimen name="playback_overlay_width">240dp</dimen>
+    <dimen name="playback_overlay_height">240dp</dimen>
+    <dimen name="lb_basic_card_title_text_size">17sp</dimen>
+    <dimen name="Flb_basic_card_content_text_size">15sp</dimen>
+    <dimen name="lb_basic_card_info_height">60dp</dimen>
+    <dimen name="padding">20dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
